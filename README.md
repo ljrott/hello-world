@@ -1,2 +1,2 @@
-# hello-world
-Just another repository following the tutorial
+# NY State ATM Locations
+Code supporting use of the NY state ATM locations dataset.
