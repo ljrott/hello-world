@@ -21,6 +21,8 @@ Data Issues:
 <li>Mt. Kisko changed to Mount Kisco in row 1844</li>
 <li>Added hyphens to "Hastings on Hudson" in row 225</li>
 <li>Changed zip code in row 4431 to "14624"</li>
-
+<li>Fixed county for TD bank locations row 5524, 5618, and 5659</li>
+<li>Fixed county for Advantage Federal row 51, 52</li>
+<li>Fixed county in row 2512, 2255, 2166, 1962, 1956, 4655, 5302, 4606</li>
 </ul>
 
