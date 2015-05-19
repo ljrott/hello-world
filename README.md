@@ -1,7 +1,7 @@
 # NY State ATM Locations
-Code supporting use of the NY state ATM locations dataset.
+Code supporting use of the NY state ATM locations dataset. The included dataset has been cleaned up compared to the file hosting on the data.ny.gov website.
 
-Data Issues:
+Some of the noted data Issues:
 
 <ul>
 <li>Queensbury spelled wrong in row 1784 (Queesnbury)</li>
