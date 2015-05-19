@@ -1,5 +1,5 @@
 # NY State ATM Locations
-Code supporting use of the NY state ATM locations dataset. The included dataset has been cleaned up compared to the file hosting on the data.ny.gov website (https://data.ny.gov/Government-Finance/Bank-Owned-ATM-Locations-in-New-York-State-Map/ygnk-5wb9).
+Code supporting use of the NY state ATM locations dataset. The dtaset in this repo has been cleaned up compared to the file hosting on the data.ny.gov website (https://data.ny.gov/Government-Finance/Bank-Owned-ATM-Locations-in-New-York-State-Map/ygnk-5wb9).
 
 Some of the noted data Issues:
 
